@@ -64,9 +64,7 @@ Processes stock updates and prevents negative stock.
 Moves processed files to /stocks_processed.
 
 **Example XML (stocks_new/example.xml)**
-xml
-Copiază
-Editează
+
 <stocks>
     <stock>
         <product_id>1</product_id>

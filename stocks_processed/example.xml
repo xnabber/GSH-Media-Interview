@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stocks>
+    <stock>
+        <product_id>1</product_id>
+        <quantity>10</quantity>
+    </stock>
+    <stock>
+        <product_id>2</product_id>
+        <quantity>20</quantity>
+    </stock>
+    <stock>
+        <product_id>3</product_id>
+        <quantity>-5</quantity> <!-- Negative value example -->
+    </stock>
+    <stock>
+        <product_id>4</product_id>
+        <quantity>50</quantity>
+    </stock>
+</stocks>
